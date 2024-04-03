@@ -25,7 +25,7 @@ Estas são as tecnologias que eu trabalho e as que estou aprendendo: 🤓
    
  <br>
  <br>
- Para acessar meu Portfólio:  <a  target="_blank href="https://portfolio-jhonatan-samuel.vercel.app/#home"> Clique Aqui </a>
+ Para acessar meu Portfólio:  <a href="https://portfolio-jhonatan-samuel.vercel.app/#home"  target="_blank"> Clique Aqui </a>
 <br>
 <br>
 <br>
